@@ -1,4 +1,5 @@
 # Artificial_Intelligence
 
-### Required:
-[Instalar scikit-learn]:https://scikit-learn.org/stable/install.html
+### Instalar Scikit-learn:
+
+[Instalar scikit-learn]: https://scikit-learn.org/stable/install.html
